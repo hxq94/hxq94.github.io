@@ -6,7 +6,7 @@
   <link href="https://hxq94.github.io/atom.xml" rel="self"/>
   
   <link href="https://hxq94.github.io/"/>
-  <updated>2022-04-02T07:13:01.080Z</updated>
+  <updated>2022-04-12T12:45:01.172Z</updated>
   <id>https://hxq94.github.io/</id>
   
   <author>
@@ -17,42 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://hxq94.github.io/2022/03/28/test/"/>
-    <id>https://hxq94.github.io/2022/03/28/test/</id>
-    <published>2022-03-27T16:09:34.000Z</published>
-    <updated>2022-04-02T07:13:01.080Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3><ul><li>你好</li><li><ul><li>你好</li></ul></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;你好&lt;/li&gt;
-&lt;li&gt;&lt;ul&gt;
-&lt;li&gt;你好&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</summary>
-      
-    
-    
-    
-    <category term="java" scheme="https://hxq94.github.io/categories/java/"/>
-    
-    
-    <category term="java" scheme="https://hxq94.github.io/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://hxq94.github.io/2022/03/27/hello-world/"/>
     <id>https://hxq94.github.io/2022/03/27/hello-world/</id>
     <published>2022-03-27T10:30:32.722Z</published>
-    <updated>2022-03-27T10:30:32.723Z</updated>
+    <updated>2022-04-12T12:45:01.172Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -64,6 +33,10 @@
     
     
     
+    <category term="java" scheme="https://hxq94.github.io/categories/java/"/>
+    
+    
+    <category term="java" scheme="https://hxq94.github.io/tags/java/"/>
     
   </entry>
   
