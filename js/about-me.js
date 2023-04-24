@@ -6,7 +6,6 @@
 //         $("#poetry-container-time").append("<p>" + new Date().Format("yyyy.MM.dd/hh:mm:ss") + "</p>" + htmlC);
 //     })
 // });
-
 $(function () { // 获取记录数据
     $.getJSON("../json_data/record.json", function (data) {
         $.each(data, function (i, e) {
