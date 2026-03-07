@@ -104,9 +104,9 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/hxq94/hxq94.github.io.git
+  repo: git@github.com:hxq94/hxq94.github.io.git
   branch: master
 backup:
     type: git
     repository:
-       github: https://github.com/hxq94/hxq94.github.io.git,hexo
+       github: git@github.com:hxq94/hxq94.github.io.git,hexo
